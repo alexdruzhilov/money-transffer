@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.revolut.moneytransfer
+---
+testFramework: junit
+sourceLanguage: java
